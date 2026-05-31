@@ -79,40 +79,6 @@ Crowdfunding decentralized application built with Solidity and Foundry.
 
 ---
 
-# ⚡ GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuu21&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuu21&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-🚀 Land a Software Engineering Internship
-
-🚀 Master React & TypeScript
-
-🚀 Build Production-Ready Blockchain Applications
-
-🚀 Contribute to Open Source Projects
-
-🚀 Become a Top Full Stack Engineer
-
----
-
 <div align="center">
 
 ### 👀 Profile Visitors
