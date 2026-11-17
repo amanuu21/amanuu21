@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Amanuel Abera
 
-### Full Stack Developer | Blockchain Developer | Computer Science Student
+### Full Stack Developer | Blockchain Developer |
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Blockchain+Developer;React+%7C+Node.js+%7C+TypeScript;Smart+Contract+Developer;Building+Projects+That+Matter" />
 
@@ -14,11 +14,9 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student at Addis Ababa University
-
 💻 Full Stack Developer passionate about building scalable web applications
 
-🌍 Former Full Stack Developer Intern at iCATT (US-Based Technology Company)
+🌍 Former Full Stack Developer at iCATT (US-Based Technology Company)
 
 🔗 Blockchain & Smart Contract Developer
 
